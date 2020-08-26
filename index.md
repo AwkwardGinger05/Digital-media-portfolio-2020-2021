@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pamela's Digital Media Porfolio :D
 
 You can use the [editor on GitHub](https://github.com/Akwardginger/Digital-media-portfolio-2020-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
