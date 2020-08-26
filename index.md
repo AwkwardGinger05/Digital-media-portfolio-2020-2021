@@ -1,5 +1,7 @@
 ## Welcome to Pamela's Digital Media Porfolio :D
 
+![Color Swatch](https://github.com/Akwardginger/Digital-media-portfolio-2020-2021/blob/gh-pages/Raster/ColorSwatch.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Akwardginger/Digital-media-portfolio-2020-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
